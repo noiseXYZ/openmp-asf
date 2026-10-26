@@ -220,7 +220,7 @@ ASF hooks `OnPlayerConnect`, `OnPlayerDisconnect`, `OnOutgoingRPC` and `RemoveBu
 
 ## Status
 
-Version **1.0.0**. It compiles cleanly with the open.mp compiler, but not every function has been tested on a live server yet. The packet layouts follow the SA-MP 0.3.7 protocol that open.mp speaks (DL clients are detected). If something behaves differently in game, open an issue.
+Version **1.0.0**. It compiles cleanly with the open.mp compiler, but not every function has been tested on a live server yet (update: i've tested the remaining sync related functions; outcomes as working). The packet layouts follow the SA-MP 0.3.7 protocol that open.mp speaks (DL clients are detected). If something behaves differently in game, open an issue.
 
 ## Author and credits
 
